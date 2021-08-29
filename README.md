@@ -1,6 +1,6 @@
 <h1 align='center'>
   Oi, eu sou Beatriz
-  <img align="center" src="wave.gif" height="40" />
+  <img align="center" src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="40" />
 </h1>
 
 <p>
@@ -9,7 +9,8 @@
 
 <div align="center">
 
-##### <br><br><br><br><br>Sou estudante de desensenvolvimento web na <i>Trybe</i>, <br>aprendendo todos os dias <br> uma nova ferramenta pra minha caixa 🔧<br><br><br><br><br>
+##### <br><br><br>Sou estudante de desensenvolvimento web na <i>Trybe</i>, <br>aprendendo todos os dias <br> uma nova ferramenta pra minha caixa 🔧<br>
+[Me encontre aqui também <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" height="30" />](https://linkedin.com/in/fagundesbeatriz)<br><br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
