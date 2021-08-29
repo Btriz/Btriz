@@ -4,13 +4,12 @@
 </h1>
 
 <p>
-  <img height="300" align='left' src=https://media2.giphy.com/media/hSo2KqGnSEnQJAuPQ1/giphy.gif?cid=ecf05e47liaa29s91glv26jn8d5kiqf616cygrxgt1igue4l&rid=giphy.gif&ct=s" >
+  <img height="250" align='left' src=https://media2.giphy.com/media/hSo2KqGnSEnQJAuPQ1/giphy.gif?cid=ecf05e47liaa29s91glv26jn8d5kiqf616cygrxgt1igue4l&rid=giphy.gif&ct=s" >
 </p>
 
 <div align="center">
 
-#### <br><br><br><br><br>Sou estudante de desensenvolvimento web na <i>Trybe</i>, <br>aprendendo todos os dias <br> uma nova ferramenta pra minha caixa 🔧<br><br><br><br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+##### <br><br><br><br>Sou estudante de desensenvolvimento web na <i>Trybe</i>, <br>aprendendo todos os dias <br> uma nova ferramenta pra minha caixa 🔧<br><br><br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
