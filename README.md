@@ -9,7 +9,7 @@
 
 <div align="center">
 
-##### <br><br><br><br>Sou estudante de desensenvolvimento web na <i>Trybe</i>, <br>aprendendo todos os dias <br> uma nova ferramenta pra minha caixa 🔧<br><br><br><br>
+##### <br><br><br><br>Sou estudante de desensenvolvimento web na <i>Trybe</i>, <br>aprendendo todos os dias <br> uma nova ferramenta pra minha caixa 🔧<br><br><br><br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
