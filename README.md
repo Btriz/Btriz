@@ -7,8 +7,9 @@
   
 <img align="left" src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="250" />
 
-<br><br>Sou estudante de desensenvolvimento web na <i>Trybe</i>, <br>aprendendo todos os dias <br> uma nova ferramenta pra minha caixa 🔧<br>
-[Me encontre aqui também <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" height="30" />](https://linkedin.com/in/fagundesbeatriz)<br><br><br><br>
+<br><br>Sou desensenvolvedora web full-stack pela <i>Trybe</i> <br>e front-end pela vida<br>
+[Me encontre aqui também](https://linkedin.com/in/fagundesbeatriz)
+[<img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" height="30" width="30" />](https://linkedin.com/in/fagundesbeatriz)<br><br><br><br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
